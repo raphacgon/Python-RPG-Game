@@ -13,7 +13,7 @@ Game Features:
 - Life System: The player starts with 3 lives. Gaining or losing lives depends on the outcome of each battle.
 - Narrative Feedback: Each action is narrated with randomly selected scenario descriptions for immersion.
 - Game Over: The game ends when the player reaches 20 rounds, loses all lives or gets 10 x❤️.
-
+___________________________________________________
   TRADUÇÃO PT/BR
 Características do Jogo:
 ------------------------
