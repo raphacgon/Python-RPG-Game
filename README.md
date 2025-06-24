@@ -1,5 +1,7 @@
 RPyG - Role-Playing Game  
 ------------------------
+![Designer](https://github.com/user-attachments/assets/142e2ebc-0f51-41ff-8e78-624e672d8671)
+
 
 A simple text-based RPG adventure in Python.
 
