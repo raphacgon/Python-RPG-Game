@@ -1,0 +1,54 @@
+------------------------------------------------------------
+VERSION 1.1
+------------------------------------------------------------
+
+NEW FEATURES:
+
+INTEGRATED PYGAME MIXER FOR ENHANCED AUDIO EXPERIENCE:
+- Added sound effects: typewriter, victory, defeat, potion pickup, sword hit, monster encounter.
+- Background music added for combat, exploration, and game over scenes.
+
+TURN-BASED COMBAT SYSTEM:
+- Players can attack, defend (with cooldown), or use potions.
+- Enemies scale in difficulty with randomized levels.
+- Critical hit messages and dynamic damage system.
+
+POTION SYSTEM:
+- Random chance (5%) to find a potion after player's turn.
+- Potion restores HP to full and has a visual ASCII art display.
+
+EXPANDED ENEMY DIVERSITY:
+- New pool of 30+ enemy types with randomized emotional descriptors.
+- Enemies now have levels from 1 to 5.
+
+GENDER SELECTION LOGIC UPDATED:
+- Now uses a dedicated function with validation and audio feedback.
+
+VISUAL IMPROVEMENTS:
+- Clear formatting with line separators, spacing, and indentation.
+- ASCII art introduction and potion scenes for immersive storytelling.
+- Standardized error messages and menu navigation cues.
+
+DEVELOPER MODE:
+- Activates special debug features when player name is "Raphael" or "Dev".
+- Enables high damage output and displays development suggestions.
+
+PROGRESSION SYSTEM:
+- Players win after surviving 10 rounds.
+- Tracks number of lives and failed escape attempts.
+
+------------------------------------------------------------
+CHANGES:
+------------------------------------------------------------
+
+- Replaced basic combat mini-game (number guessing) with full turn-based system.
+- Dynamic narrative now includes weapon name, gender pronouns, and enemy emotion.
+- Improved input validation and feedback in weapon and gender selection.
+
+------------------------------------------------------------
+REMOVED:
+------------------------------------------------------------
+
+- Old combat logic based on matching a random number.
+- Hardcoded victory/loss messages, now dynamically selected from larger pools.
+
