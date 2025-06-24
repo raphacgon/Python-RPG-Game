@@ -37,7 +37,6 @@ Game Features
 - Turn-based combat: attack, defend, or drink potions.
 - Potions restore your HP and can be found randomly.
 - Sound effects and music for immersion.
-- Developer mode for special names ("Dev" or "Raphael").
 - ASCII art for intro and potions.
 
 ------------------------
