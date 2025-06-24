@@ -22,7 +22,6 @@ indent = " " * 2
 # Suggestions for developer mode
 suggestions = [
     "*Improve aesthetics (colors, animations with time.sleep, etc).",
-    "*Add background music using playsound.",
     "*Introduce rare enemies, bosses, or ability effects.",
     "*Attack damage multiplied according to selected weapon",
     "*Diversify encounter scenarios"
